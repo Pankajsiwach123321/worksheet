@@ -12,6 +12,16 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      animation: {
+        'spin-profile': 'wiggle 500ms 1 linear alternate',
+      },
+      keyframes: {
+        wiggle: {
+          '0%': { transform: 'rotate(-7deg)' },
+          '50%': { transform: 'rotate(7deg)' },
+          '100%': { transform: 'rotate(0deg)' },
+        }
+      }
     },
   },
   plugins: [],
