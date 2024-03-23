@@ -1,6 +1,5 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { ArrowMonth } from "./Icon";
 import Image from "next/image";
 
 const Work = () => {
