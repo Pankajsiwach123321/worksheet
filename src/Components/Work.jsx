@@ -200,70 +200,70 @@ const Work = () => {
     APRIL: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     APRIL: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     MAY: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     JUNE: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     JULY: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     AUGUST: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     SEPTEMBER: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     OCTOBER: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     NOVEMBER: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
     DECEMBER: [
       {
         number: 1,
-        what: "COMEING SOON",
+        what: "COMING SOON",
         img: "/image/comming-soon.png",
       },
     ],
