@@ -320,7 +320,7 @@ const Work = () => {
                       src={arr.img}
                       height={100}
                       width={100}
-                      className=" object-cover rounded-2xl w-[200px]  h-[200px]"
+                      className=" object-cover rounded-2xl w-[150px]  h-[130px]"
                     />
                     <div>
                       <div className=" flex gap-3 items-center">
