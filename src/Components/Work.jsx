@@ -200,15 +200,12 @@ const Work = () => {
     APRIL: [
       {
         number: 1,
-        what: "COMING SOON",
-        img: "/image/comming-soon.png",
-      },
-    ],
-    APRIL: [
-      {
-        number: 1,
-        what: "COMING SOON",
-        img: "/image/comming-soon.png",
+        what: "e-commerce",
+        img: "/image/ecommerce.png",
+        github: "GIT HUB LINK :-",
+        vercel: "LIVE LINK :-",
+        gitlink: "https://github.com/Pankajsiwach123321/e-commerce.git",
+        velink: "https://e-commerce-phi-swart.vercel.app/",
       },
     ],
     MAY: [
@@ -279,7 +276,7 @@ const Work = () => {
     if (storedMonth !== Month) {
       setMonth(storedMonth);
     } else {
-      setMonth("MARCH");
+      setMonth(myMonth[new Date().getMonth()]);
     }
   }, []);
   return (
