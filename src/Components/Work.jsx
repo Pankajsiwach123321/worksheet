@@ -207,6 +207,15 @@ const Work = () => {
         gitlink: "https://github.com/Pankajsiwach123321/e-commerce.git",
         velink: "https://e-commerce-phi-swart.vercel.app/",
       },
+      {
+        number: 2,
+        what: "NOBEL MIND",
+        img: "/image/hero.png",
+        github: "GIT HUB LINK :-",
+        vercel: "LIVE LINK :-",
+        gitlink: "https://github.com/Pankajsiwach123321/NobelMind.git",
+        velink: "https://nobel-mind-self.vercel.app/",
+      },
     ],
     MAY: [
       {
