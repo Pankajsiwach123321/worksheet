@@ -216,6 +216,15 @@ const Work = () => {
         gitlink: "https://github.com/Pankajsiwach123321/NobelMind.git",
         velink: "https://nobel-mind-self.vercel.app/",
       },
+      {
+        number: 3,
+        what: "Cupid-Ai",
+        img: "/image/cupidai.png",
+        github: "GIT HUB LINK :-",
+        vercel: "LIVE LINK :-",
+        gitlink: "https://github.com/Pankajsiwach123321/clupidAi.git",
+        velink: "https://clupid-ai-pankajsiwach123321.vercel.app/",
+      },
     ],
     MAY: [
       {
