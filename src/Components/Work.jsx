@@ -225,6 +225,24 @@ const Work = () => {
         gitlink: "https://github.com/Pankajsiwach123321/clupidAi.git",
         velink: "https://clupid-ai-pankajsiwach123321.vercel.app/",
       },
+      {
+        number: 4,
+        what: "Email Js",
+        img: "/image/mailjs.png",
+        github: "GIT HUB LINK :-",
+        vercel: "LIVE LINK :-",
+        gitlink: "https://github.com/Pankajsiwach123321/EmailJsValidation.git",
+        velink: "https://email-js-validation.vercel.app/",
+      },
+      {
+        number: 5,
+        what: "Marc Joachim ",
+        img: "/image/marcjochim.png",
+        github: "GIT HUB LINK :-",
+        vercel: "LIVE LINK :-",
+        gitlink: "https://github.com/Pankajsiwach123321/MarcJochim.git",
+        velink: "https://marc-jochim.vercel.app/",
+      },
     ],
     MAY: [
       {
@@ -284,7 +302,7 @@ const Work = () => {
     ],
   };
   const [Month, setMonth] = useState(null);
-
+  const MothTile = Month;
   function changeMonth(e) {
     setMonth(e);
     localStorage.setItem("selectedMonth", e);
@@ -335,6 +353,7 @@ const Work = () => {
                       src={arr.img}
                       height={100}
                       width={100}
+                      alt="topicimg"
                       className=" object-cover rounded-2xl w-[150px]  h-[130px]"
                     />
                     <div>
