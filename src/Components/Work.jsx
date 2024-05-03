@@ -243,21 +243,16 @@ const Work = () => {
         gitlink: "https://github.com/Pankajsiwach123321/MarcJochim.git",
         velink: "https://marc-jochim.vercel.app/",
       },
+    ],
+    MAY: [
       {
-        number: 6,
+        number: 1,
         what: "Mini Course",
         img: "/image/minicourse.png",
         github: "GIT HUB LINK :-",
         vercel: "LIVE LINK :-",
         gitlink: "https://github.com/Pankajsiwach123321/Mini-Course.git",
         velink: "https://mini-course-dun.vercel.app/",
-      },
-    ],
-    MAY: [
-      {
-        number: 1,
-        what: "COMING SOON",
-        img: "/image/comming-soon.png",
       },
     ],
     JUNE: [
